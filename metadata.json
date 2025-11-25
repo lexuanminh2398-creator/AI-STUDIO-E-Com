@@ -1,0 +1,5 @@
+{
+  "name": "E-com Studio AI_SHOPPE",
+  "description": "An AI-powered tool for e-commerce image generation and editing using a free Gemini model, offering features like background changes, virtual try-ons, AI edits, and 3D renders.",
+  "requestFramePermissions": []
+}
